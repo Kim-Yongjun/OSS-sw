@@ -18,29 +18,6 @@
 
 한편, 자유로이 공유되는 소프트웨어에 대한 관심이 증가함에 따라 이에 대한 정의 및 설명이 더욱 필요하게 되었고, 이후 1998년 오픈소스 소프트웨어를 인증하는 OSI(Open Source Initiative, <https://www.opensource.net>)가 에릭 레이몬드(Eric Raymond) 등에 의해 결성되면서 오픈소스 소프트웨어 운동은 궤도에 오르게 된다.
 
-OSI 단체가 정한 오픈소스 소프트웨어의 기준을 OSD(Open Source Definition)이라 하는데, 이 기준을 만족해야만 오픈소스 소프트웨어로 인정받게 된다.
-
-OSD 기준에 따르면 오픈소스 소프트웨어는 다음 10가지 요건을 갖추어야 한다.
-
-1. 자유로운 재배포 (Free Redistribution)
-
-2. 소스코드 공개 (Source Code)
-
-3. 2차적 저작물 허용 (Derived Works)
-
-4. 소스코드의 무결성 (Integrity of The Author's Source Code)
-
-5. 개인 또는 그룹의 평등 (No Discrimination Against Persons or Groups)
-
-6. 분야에 대한 평등 (No Discrimination Against Fields of Endeavor)
-
-7. 라이선스 배포 (Distribution of License)
-
-8. 특정 제품에만 유효한 라이선스의 금지 (License Must Not Be Specific to a Product)
-
-9. 다른 소프트웨어를 제한하는 라이선스의 금지 (License Must Not Restrict Other Software)
-
-10. 라이선의의 기술 중립성 (License Must Be Technology-Neutral)
 
 
 
